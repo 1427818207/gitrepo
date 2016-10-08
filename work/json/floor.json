@@ -1,0 +1,33 @@
+[{
+  "name"    : "文学",
+  "color"   : "#fc5f3c",
+  "spanCon" : ["外国随笔","文学理论", "纪实文学"],
+  "left"    : "img/floor/floor1-1.jpg",
+  "right"   :["img/floor/floor1-2.jpg","img/floor/floor1-3.jpg","img/floor/floor1-4.jpg","img/floor/floor1-5.jpg","img/floor/floor1-6.jpg","img/floor/floor1-7.jpg","img/floor/floor1-8.jpg","img/floor/floor1-9.jpg","img/floor/floor1-10.jpg"],
+  "left-info":"人生三书",
+  "left-price":"￥88.90",
+  "right-info":["咸 也好，淡 也好","阿城精选集","从容的底气","你心柔软，却有力量","毕淑敏幸福三部曲","汪曾祺图文珍藏版","莎士比亚悲剧喜剧全集","自在独行","文化苦旅"],
+  "right-price":["￥27.20","￥19.90","￥28.60","￥27.30","￥79.40","￥79.20","￥106.00","￥24.40","￥17.60"]
+},
+{
+"name"    : "小说",
+"color"   : "#007fd",
+"spanCon" : ["古典小说","当代小说","科幻小说"],
+"left"    : "img/floor/floor2-1.jpg",
+"right"   :["img/floor/floor2-2.jpg","img/floor/floor2-3.jpg","img/floor/floor2-4.jpg","img/floor/floor2-5.jpg","img/floor/floor2-6.jpg","img/floor/floor2-7.jpg","img/floor/floor2-8.jpg","img/floor/floor2-9.jpg","img/floor/floor2-10.jpg"],
+  "left-info":"巨人的陨落",
+  "left-price":"￥89.50",
+  "right-info":["麻雀","杰森·伯恩之谍影重重","岛上书店","知更鸟女孩","无声告白","玛格丽特小镇","假面前夜","孤独小说家","许三观卖血记"],
+  "right-price":["￥19.90","￥110.10","￥24.10","￥20.00","￥24.10","￥25.00","￥24.90","￥25.20","￥16.40"]
+},
+{
+"name"    : "经济",
+"color"   : "#f0c000",
+"spanCon" : ["中国经济","国际经济","经济数学"],
+"left"    : "img/floor/floor3-1.jpg",
+"right"   :["img/floor/floor3-2.jpg","img/floor/floor3-3.jpg","img/floor/floor3-4.jpg","img/floor/floor3-5.jpg","img/floor/floor3-6.jpg","img/floor/floor3-7.jpg","img/floor/floor3-8.jpg","img/floor/floor3-9.jpg","img/floor/floor3-10.jpg"],
+  "left-info":"斯坦福极简经济学",
+  "left-price":"￥33.20",
+  "right-info":["大停滞","未来20年大机遇","兰德公司与美国的崛起","国家为什么会失败","不可不知的经济真相","大话工业4.0","经济增长的迷雾","钓愚：操纵与欺骗的经济学","生命的未来"],
+  "right-price":["￥46.60","￥30.50","￥35.10","￥56.20","￥30.80","￥36.80","￥46.60","￥44.30","￥52.40"]
+}]
